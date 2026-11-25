@@ -1,6 +1,8 @@
 {
   "java.project.sourcePaths": [
     "java-fundamentals/exercises",
-    "java-fundamentals/get-started"
+    "java-fundamentals/get-started",
+    "object-oriented-programming/working-classes",
+    "object-oriented-programming/working-records"
   ]
 }
