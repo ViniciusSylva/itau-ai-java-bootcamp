@@ -3,6 +3,7 @@
     "java-fundamentals/exercises",
     "java-fundamentals/get-started",
     "object-oriented-programming/working-classes",
-    "object-oriented-programming/working-records"
+    "object-oriented-programming/working-records",
+    "object-oriented-programming/pet-shop"
   ]
 }
